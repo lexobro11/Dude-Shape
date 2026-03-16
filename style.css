@@ -12,16 +12,17 @@
     margin: 0 auto;
 }
 
-
 header {
     padding: 44px 120px 140px;
 }
+
 
 nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
+
 
 nav ul {
     list-style-type: none;
